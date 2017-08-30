@@ -16,13 +16,22 @@
 
 ## ARCore
 
+ARCore is a platform for building augmented reality apps on Android. ARCore uses three key technologies to integrate virtual content with the real world as seen through your phone's camera:
+
+* **Motion tracking** allows the phone to understand and track its position relative to the world.
+* **Environmental understanding** allows the phone to detect the size and location of flat horizontal surfaces like the ground or a coffee table.
+* **Light estimation** allows the phone to estimate the environment's current lighting conditions.
+
 ## Tutorials
 
 ### Android Studio
+- [Android Studio getting started](https://developers.google.com/ar/develop/java/getting-started) - Android Studio getting started guide.
 
 ### Unity
+- [Unity getting started](https://developers.google.com/ar/develop/unity/getting-started) - Unity getting started guide.
 
 ### Unreal
+- [Unrealgetting started](https://developers.google.com/ar/develop/unreal/getting-started) - Unreal getting started guide.
 
 
 
