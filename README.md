@@ -8,6 +8,7 @@
 
 - [ARCore](#arcore)
 - [Projects](#projects)
+- [Forum / Threads](#forum-threads)
 - [Tutorials](#tutorials)
     - [Android Studio](#android-studio)
     - [Unity](#unity)
@@ -23,7 +24,10 @@ ARCore is a platform for building augmented reality apps on Android. ARCore uses
 * **Environmental understanding** allows the phone to detect the size and location of flat horizontal surfaces like the ground or a coffee table.
 * **Light estimation** allows the phone to estimate the environment's current lighting conditions.
 
-## ARCore Projects
+## Forum / Threads
+- [Unity Forum Thread](https://forum.unity3d.com/threads/introducing-arcore-an-android-ar-sdk-for-unity.490929/) - Unity Forum thread for ARCode.
+
+## Projects
 
 ## Tutorials
 
