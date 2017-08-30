@@ -8,7 +8,7 @@
 
 - [ARCore](#arcore)
 - [Projects](#projects)
-- [Forum / Threads](#forum-threads)
+- [Forum / Threads](#forum--threads)
 - [Tutorials](#tutorials)
     - [Android Studio](#android-studio)
     - [Unity](#unity)
