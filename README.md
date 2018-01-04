@@ -14,6 +14,7 @@
     - [Android Studio](#android-studio)
     - [Unity](#unity)
     - [Unreal](#unreal)
+- [Videos](#videos)
 
 ---
 
@@ -42,7 +43,8 @@ ARCore is a platform for building augmented reality apps on Android. ARCore uses
 ### Unreal
 - [Unrealgetting started](https://developers.google.com/ar/develop/unreal/getting-started) - Unreal getting started guide.
 
-
+## Videos
+-[Unite Austin 2017 - ARCore: Augmented Reality at Android Scale](https://www.youtube.com/watch?v=qBdx7ADMOq8) - Unite Austin 2017 Session on ARCore by Geoff Landskov.
 
 --- 
 **License**
